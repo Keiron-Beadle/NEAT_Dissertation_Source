@@ -1,0 +1,16 @@
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\bin\Release\net5.0\Base_NEAT.exe
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\bin\Release\net5.0\Base_NEAT.deps.json
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\bin\Release\net5.0\Base_NEAT.runtimeconfig.json
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\bin\Release\net5.0\Base_NEAT.runtimeconfig.dev.json
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\bin\Release\net5.0\Base_NEAT.dll
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\bin\Release\net5.0\ref\Base_NEAT.dll
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\bin\Release\net5.0\Base_NEAT.pdb
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\obj\Release\net5.0\Base_NEAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\obj\Release\net5.0\Base_NEAT.AssemblyInfoInputs.cache
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\obj\Release\net5.0\Base_NEAT.AssemblyInfo.cs
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\obj\Release\net5.0\Base_NEAT.csproj.CoreCompileInputs.cache
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\obj\Release\net5.0\Base_NEAT.dll
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\obj\Release\net5.0\ref\Base_NEAT.dll
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\obj\Release\net5.0\Base_NEAT.pdb
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\obj\Release\net5.0\Base_NEAT.genruntimeconfig.cache
+C:\Users\Keiro\source\repos\Base_NEAT\Base_NEAT\obj\Release\net5.0\Base_NEAT.csproj.AssemblyReference.cache
